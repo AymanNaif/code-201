@@ -8,3 +8,11 @@
 ### **note** that To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
 ## Chapter 2: Extra Markup
+#### it was there an HTML evoulution it started ar xhtml until now it's HTML5 so now we use *DOCTYPES* to tell tell browsers which version of HTML you are using.
+#### in HTML we can add comments to our code by (<!-*- -*-> *"remove *"*) that can give you or other devloper to understand the codes or keep notes.
+#### as well we can use *id or class attributes* to identify elements that we can change it's propariteis next by *CSS or JS*.
+### Notes:
+- #### The <div> and <span> elements allow you to group block-level and inline elements together.
+- #### <iframes> cut windows into your web pages through which other pages can be displayed.
+-  #### The <meta> tag allows you to supply all kinds of information about your web page.
+-  #### Escape characters are used to include special characters in your pages such as <, >, and ©
