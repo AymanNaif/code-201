@@ -42,5 +42,37 @@
 #### The <address > element has quite a specific use: to contain contact details for the author of the page. It can contain a physical address, but it does not have to. For example, it may also contain a phone number or email address.
 
 ### Changes to Content
-#### The < lns > element can be used to show content that has been inserted into a document, while the <del > element can show text that has been deleted from it.
+#### The < lns > element can be used to show content that has been inserted into a document, while the < del > element can show text that has been deleted from it.
 #### The < s > element indicates something that is no longer accurate or relevant (but that should not be deleted). Visually the content of an < s > element will usually be displayed with a line through the center.
+
+## CSS (chapter 10:INTRODUCING CSS)
+### Understanding CSS: Thinking Inside the Box
+#### The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+#### *note* : CSS works by associating rules with HTML elements. These rules govern ow the content of specified elements should be displayed. A CSS rule ontains two parts: a selector and a declaration. > the Selectors indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+
+#### *note* : CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon. > Properties indicate the aspects of the element you want to change. For example, color, font, width, height and border, Values specify the settings you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be.
+
+### Using External CSS
+![external](https://codebridgeplus.com/wp-content/uploads/download-5.png)
+
+#### The < link >  element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element (meaning it does not need a closing tag), and it lives inside the <head> element. It should use three attributes 
+- #### href This specifies the path to the CSS file (which is often placed in a folder called css or styles).
+- #### type This attribute specifies the type of document being linked to. The value should be text/css.
+- #### rel This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
+
+### Using Internal CSS
+#### < style > You can also include CSS rules within an HTML page by placing them inside a < style > element, which usually sits inside the < head > element of the page. The < style > element should use the type attribute to indicate that the styles are specified in CSS. The value should be text/ css.
+
+### CSS Selectors
+#### There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document. 
+![selector](https://i1.wp.com/learn-automation.com/wp-content/uploads/2015/12/Css-Selector-Table.png?resize=1209%2C466)
+
+### How Css Rules Cascade
+- #### LAST RULE: If the two selectors are identical, the latter of the two will take precedence.
+- #### SPECIFICITY : If one selector is more specific than the others, the more specific rule will take precedence over more general ones 
+- #### IMPORTANT: You can add !important after any property value to indicate that it should be considered more important than other rules that apply to the same element. 
+
+### *note* : we use external CSS sheet beacuse when building a website there are several advantages to placing your CSS rules in a separate style sheet.
+
+### Summary INTRODUCING CSS
+![image](https://user-images.githubusercontent.com/79092103/109427944-6a2db800-79fd-11eb-85e6-ffdd465a91b9.png)
