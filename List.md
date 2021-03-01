@@ -62,7 +62,10 @@ and you can color it
 visibility has tow attribute 
 hidden
 visible
-# ARRAYS
+
+# JavaScript
+
+## ARRAYS
 An array is a special type of variable. It doesn't
 just store one value; it stores a list of values. 
 
@@ -88,7 +91,7 @@ Values in an array are accessed as if they are in
 a numbered list. It is important to know that the
 numbering of this list starts at zero (not one). 
 
-# SWITCH STATEMENTS If you use a data type JavaScript did not expect,
+## SWITCH STATEMENTS If you use a data type JavaScript did not expect,
 it tries to make sense of the operation rather
 than report an error. 
 A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. 
@@ -101,7 +104,7 @@ Because the presence of an object or array can
 be considered truthy, it is often used to check
 for the existence of an element within a page. 
 
-# loops 
+## loops 
 ###### USING FOR LOOPS
 A for loop is often used to loop
 through the items in an array.
