@@ -80,3 +80,107 @@
 
 ## JavaScript (Chapter 02: Basic of JavaScript)
 
+### Basic JavaScript Instructions
+As we know before a script is a series of instructions that a computer can follow one-by-one.
+Each step called **statment** that should end with a semicolon.
+The semicolon also tells the JavaScript interpreter when a step is over, indicating that it should move to the next step.
+
+Some statements are surrounded by curly braces;
+these are known as *code blocks*
+
+JAVASCRIPT is case sensitive, so we should be careful during coding.
+
+We can add a single line comment by starting the line with // and for multi-line comments starting the comments with the /* characters and ending with the */ characters.
+
+**Variable** 
+
+It is something like container with dynamic value that can be changed dynamically.
+Before using variable we should declare it (give it name) like this *var quantity;*
+
+**Data Types**
+* Number like (var price=10;)
+* String like (var Name='SUN';)
+* Boolean true or false like (var inStock=false;)
+
+**Rules for naming variable**
+* The name must begin with a letter, dollar sign ($),or an underscore (_).
+* The name can contain letters, numbers, dollar sign ($), or an underscore (_).
+* We cannot use keywords or reserved words.
+* All variables are case sensitive.
+* Use a name that describes the kind of information that the variable stores.
+* Use a capital letter for the first letter of
+every word after the first word when the variable has more than word.
+
+**Arrays**
+
+An array is a special type of variable. It doesn't
+just store one value; it stores a list of values.
+
+It is helpful when we do not know how
+many items a list will contain.
+
+![arrays type](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/how-to-create-JavaScript-array.jpg)
+
+**Array Literal** like this ( colors= ['white',
+'black',
+'custom']; )
+
+**Array constructor** like this ( var colors=new Array('white ' ,
+'black',
+'custom ' ); )
+
+**VALUES IN ARRAYS**
+
+Values in an array are accessed as if they are in
+a numbered list. It is important to know that the
+numbering of this list starts at zero (not one).
+
+We can change the value of an item an array by selecting it and assigning it a new value just as
+we would any other variable (using the equals sign and the new value for that item).
+
+**EXPRESSIONS**
+It is evaluating into a single value.
+
+Type of expressions 
+
+* That just assign a value to a variable, like this var color = 'beige';
+* That use two or more values to return a single value, like this var area = 3 * 2;
+
+**OPERATORS**
+
+They allow programmers to create a single value from one or more values.
+
+* Assignment operators ( color = 'beige'; )
+* Comparison operators (buy = 3 > 5;)
+* Arithmetic operators (area = 3 * 2;)
+* String operators (greeting= 'Hi'+ 'Molly';)
+* Logical operators (buy= (5 > 3) && (2 < 4);)
+
+
+#### Decisions and Loops
+
+
+**Decision Making**
+Flowcharts can help us plan for which lines of code should be run next.
+There are 2 components to a decision :
+* An expression is evaluated , which return a value
+* A conditional statement says what to do in a given situation
+
+We evaluate a situation by comparing one value in the script to what we expect it might to be.
+The result will be a Boolean (true or false).
+
+![Comparison operator](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
+
+![logical operator](https://chunxuchai.files.wordpress.com/2019/05/logical-operator.jpg)
+
+**IF statement**
+
+If statement evaluates or check the condition. If the condition is true , any statements in the subsequent code block are excuted.
+
+**The IF ... else statement**
+
+It checks a condition if it is true , the first code block is excuted . If the condition is false , the second code block is run instead.
+
+![if else statement](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-else-statment.png)
+
+
