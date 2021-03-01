@@ -72,10 +72,11 @@
 - #### SPECIFICITY : If one selector is more specific than the others, the more specific rule will take precedence over more general ones 
 - #### IMPORTANT: You can add !important after any property value to indicate that it should be considered more important than other rules that apply to the same element. 
 <Enter>
-- ### *note* : we use external CSS sheet beacuse when building a website there are several advantages to placing your CSS rules in a separate style sheet.
+- ### note : we use external CSS sheet beacuse when building a website there are several advantages to placing your CSS rules in a separate style sheet.
 
 ### Summary INTRODUCING CSS
 ![image](https://user-images.githubusercontent.com/79092103/109427944-6a2db800-79fd-11eb-85e6-ffdd465a91b9.png)
+
 
 
 ## JavaScript (Chapter 02: Basic of JavaScript)
