@@ -120,16 +120,3 @@ A common step in many interview processes involves pair programming between a cu
 6. Work environment readiness
 
 Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product.
-
-# References
-> JAVASCRIPT & JQUERY
-Interactive Front-End Web Development
-JON DUCKETT
-
-> HTML & CSS
-Design and Build Websites
-Jon Ducket
-
-> from https://www.w3schools.com/
-
-> from https://www.codefellows.org/blog/6-reasons-for-pair-programming/
