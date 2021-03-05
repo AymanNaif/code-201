@@ -79,3 +79,27 @@
 #### The hsla color property allows you to specify color properties using hue, saturation, and lightness as above, and adds a fourth value which represents transparency (just like the rgba property).
 
 ![image](https://user-images.githubusercontent.com/79092103/110123124-2eae3780-7dc9-11eb-8ce0-681f9f7a4f14.png)
+
+## CSS (Chapter 12: Text)
+### Typeface Terminology
+- #### Serif: Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs , Examples: Georgia, Times, Times New Roman
+- #### Sans-Serif : Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design , Examples: Arial, Verdana, Helvetica
+- #### Monospace : Every letter in a monospace (or ixed-width) font is the same idth. (Non-monospace fonts ave different widths.), Examples: Courier, Courier New
+- #### Cursive : Cursive fonts either have joining strokes or other cursive characteristics, such as handwriting styles. Examples: Comic Sans MS, Monotype Corsiva
+- #### Fantasy : Fantasy fonts are usually decorative fonts and are often used for titles. They're not designed for long bodies of text. Examples: Impact, Haettenschweiler
+
+### Specifying Typefaces
+#### The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies
+
+### Size of Type (font-size)
+#### The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
+- ##### pixels
+- ##### percentages
+- ##### ems
+![image](https://user-images.githubusercontent.com/79092103/110126661-50112280-7dcd-11eb-967e-feb6e665c3d3.png)
+
+### *note* we can style our text with defferent proparities like make it bold or italic or else , and we can adjust the size and align it too , as so we can make uppercase or lower , underline -strike and play around with height or weidth even if we want to make shadow we will ! so that we can style the text with any idea inside our head just [Google it](https://www.google.com/) or [w3 school](https://www.w3schools.com/css/default.asp) .
+![image](https://user-images.githubusercontent.com/79092103/110129347-8603d600-7dd0-11eb-92c8-e7b269def1d9.png)
+
+![image](https://user-images.githubusercontent.com/79092103/110129426-9e73f080-7dd0-11eb-8445-3463bc1bf320.png)
+
