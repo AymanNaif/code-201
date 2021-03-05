@@ -77,3 +77,5 @@
 
 ## CSS 3: HSL & HSLA
 #### The hsla color property allows you to specify color properties using hue, saturation, and lightness as above, and adds a fourth value which represents transparency (just like the rgba property).
+
+![image](https://user-images.githubusercontent.com/79092103/110123124-2eae3780-7dc9-11eb-8ce0-681f9f7a4f14.png)
