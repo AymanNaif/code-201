@@ -32,3 +32,12 @@
 1. #### Save images in the right format
 2. #### Save images at the right size
 3. #### Use the correct resolution
+
+### image format
+![image format](https://img.pagecloud.com/wAegMZSQrxtIBtV-i7jBCW-Ho7Y=/1000x0/filters:no_upscale()/blogmerge/cf67f56e-00e6-48c0-a1a4-31a8e3baf0de.jpeg)
+
+### HTML 5: Figure and Figure Caption
+#### Images often come with captions. HTML5 has introduced a new <figure> element to contain images and their caption  so that the two are associated
+#### The <figcaption> element has been added to HTML5 in order to allow web page authors to add a caption to an image
+
+![image](https://user-images.githubusercontent.com/79092103/110122447-505aef00-7dc8-11eb-993f-da07eddb9cdd.png)
