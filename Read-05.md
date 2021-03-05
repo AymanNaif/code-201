@@ -42,7 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/79092103/110122447-505aef00-7dc8-11eb-993f-da07eddb9cdd.png)
 
-## chapter 11 ( color )
+## CSS (chapter 11: Color)
 
 ####  is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 #### to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
