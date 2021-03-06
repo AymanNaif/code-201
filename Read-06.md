@@ -1,5 +1,27 @@
 # JavaScript
 
+## The Problem Domain
+##### What is the hardest thing about writing code?
+##### - Learning a new technology
+##### - Naming things
+##### - Testing your code
+##### - Debugging
+##### - Fixing bugs
+##### - Making software maintainable
+
+##### with the simple application it was so easy to understand, the focus was taken off of the problem domain and put instead on the technology.
+##### By creating a familiar problem domain, we will found that both the tasks of me teaching a new technology and the viewer learning that technology were much easier, because it is **very difficult to learn more than one thing at once.**
+##### The real world is a messy place.  Many of the problem domains we face as programmers are difficult to understand and look completely different depending on your viewpoint.
+##### was easily able to learn that problem domain and because of it, I was able to write the code very easily as well.
+
+##### If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
+
+##### 1. Make the problem domain easier
+##### 2. Get better at understanding the problem domain
+##### You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
+######  It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it.  
+
+
 ## Chapter 3: “Object Literals”
 ### WHAT IS AN OBJECT?
 ##### Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names
@@ -36,7 +58,9 @@
 
 ![image](https://user-images.githubusercontent.com/79092103/110212567-a735f680-7ea4-11eb-897e-00e39fb567da.png)
 
+### WHITESPACE NODES
+##### Traversing the DOM can be difficult because some browsers add a text node whenever they come across whitespace between elements
 
-
+![IMAG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqF3IUQojtaxJVOnkPBD3tCgpWLHfukrdLUg&usqp=CAU)
 
 
