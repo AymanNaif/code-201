@@ -30,6 +30,40 @@ closing < /tr > tag.
 
 * < td >
 Each cell of a table is
+
+# 0bject 
+
+### GLOBAL OBJECTS: NUMBER OBJECT 
+
+Whenever you have a value that is a number, you can use the methods and properties of the Number object on it. 
+
+
+
+### GLOBAL OBJECTS: MATH OBJECT 
+
+The Math object has properties and methods for mathematical constants and functions. 
+
+
+### GLOBAL OBJECTS: DATE OBJECT (AND TIME) 
+
+
+# Domain modeling
+
+* is the process of creating a conceptual model in code for a specific problem.
+* An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+* that's articulated well can verify and validate the understanding of a specific problem among various stakeholders.
+
+### tips to follow when building domain models:
+
+* When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
+* Model its attributes with a constructor function that defines and initializes properties.
+* Model its behaviors with small methods that focus on doing one job well.
+* Store the newly created object in a variable so you can access its properties and methods from outside.
+
+#### example for Domain modeling
+
+![img](https://i.stack.imgur.com/WkUGA.jpg)
+
 represented using a < td >
 element. (The td stands for
 table data.)
@@ -123,5 +157,3 @@ to indicate background colors
 of either the entire table or
 individual table cells. The value
 is usually a hex code
-
-
