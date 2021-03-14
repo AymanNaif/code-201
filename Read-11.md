@@ -33,9 +33,7 @@ Centering images syntax:
   margin-right: auto;
   }
   
-  ## Chapter 19: 
-
-#### Practical Information : 
+### chapter 19: Practical Information : 
 
 we are going to learn at some practical information that will 
 help you launch a successful site.
