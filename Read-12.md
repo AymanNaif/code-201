@@ -1,7 +1,5 @@
 # Chart.js, Canvas
 
-# Chart.js, Canvas
-
 Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. Theyâ€™re easier to look at and convey data quickly, but theyâ€™re not always easy to create.
 A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5â€™s canvas element to draw the graph onto the page. Itâ€™s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
